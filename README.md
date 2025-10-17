@@ -24,4 +24,4 @@ The Credit Risk Analysis System is designed to help financial institutions asses
 ## Getting Started
 1. Clone the repository:  
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/RasheshDesai/Credit-Risk-Analysis-System.git
